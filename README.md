@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawan</h1>
-<h3 align="center">I'm Kawan Idrees a Front-End Developer, I Spend most of time coding outstanding projects or recording tutorials on my [Youtube](https://www.youtube.com/channel/UCIRdiiOD3ev9fS_ORF3djKw).</h3>
+<h3 align="center">I'm Kawan Idrees a Front-End Developer, I Spend most of time coding outstanding projects or recording tutorials on my .</h3> [Youtube](https://www.youtube.com/channel/UCIRdiiOD3ev9fS_ORF3djKw)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawan-edres&label=Profile%20views&color=0e75b6&style=flat" alt="kawan-edres" /> </p>
 
