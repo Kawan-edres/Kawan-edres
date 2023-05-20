@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://my-website-sooty-chi.vercel.app/](https://my-website-sooty-chi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kawan.dev](https://kawan.dev)
 
 - 💬 Ask me about **javascript,react,next,react-three-fiber**
 
 - 📫 How to reach me **kawanedres211@gmail.com**
 
-- 📄 Know about my experiences [https://my-website-sooty-chi.vercel.app/](https://my-website-sooty-chi.vercel.app/)
+- 📄 Know about my experiences [https://kawan.dev](https://kawan.dev)
 
 - ⚡ Fun fact **I watching movies and go to the GYM very often**
 
